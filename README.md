@@ -1,2 +1,2 @@
 # PML-Assignment
-see gh-pages branch for html view
+HTML presented at  http://pwrobberson.github.io/PML-Assignment
